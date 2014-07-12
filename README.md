@@ -3,7 +3,7 @@ Mongopoly!
 
 This is for people who like polling.  Polling?  Aren't we supposed to be real time in 2014? Maybe. 
 
-Real time or push is great for data that changes infrequently, and it's almost required for apps that edit the same data from multiple clients. 
+Real time is great for data that changes infrequently, and it's almost required for apps that edit the same data from multiple clients. 
 
 I argue that push isn't great in the following situation: 
 
